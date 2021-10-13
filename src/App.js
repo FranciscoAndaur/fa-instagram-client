@@ -6,7 +6,7 @@ import Posts from "./Containers/Posts";
 function App() {
   return (
     <div>
-      hi
+      hi ur cute
     </div>
   );
 }
